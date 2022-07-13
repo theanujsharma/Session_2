@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;600&display=swap');
+h1 {
+    color: rgb(214, 18, 64);
+    background-color: aquamarine;
+    font-weight:600;
+    text-decoration: underline;
+    font-family: 'Edu TAS Beginner', cursive;
+    border:5px dashed black;
+    padding-left:120px;
+    padding-top:50px;
+    padding-bottom: 50px;
+    /* margin-top:50px;
+    margin-left:500px;
+    margin-right:200px; */
+}
+
+body {
+     background-color: rgb(207, 204, 210);
+}
+div{
+    background-color: yellow;
+
+}
+span{
+    background-color: chartreuse;
+    
+}
+.heading{
+    background-color: cyan;
+}
+#main-heading{
+    color:blue;
+}
+p{
+    color:darkgreen;
+}
+.para {
+    color: brown;
+}
+#paragraph {
+    color: black
+}
